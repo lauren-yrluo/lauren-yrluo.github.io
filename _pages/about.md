@@ -12,14 +12,13 @@ during which I was advised by Prof. [Jie-Hong Roland Jiang](http://cc.ee.ntu.edu
 
 Research Interest
 ======
-My research interests and areas are formal verification, automated reasoning, and computational logic.
-For me, the most wonderful of my research is building solutions to real-world challenges upon fundamental basis and understanding them.
-Hence, I am interested in both theories and practice of formal methods. Specifically, 
+My research interests are formal verification, automated reasoning, and computational logic.
+To me, the most wonderful of my research is building solutions to real-world challenges upon fundamental basis and understanding them.
 
 **Formal verification**
 My current research applies automated reasoning techniques to verify safety properties of distributed protocols. 
 In the past, I have worked on hardware model checking. 
-I am generally interested in scaling automated formal verification for human designed systems.
+I am generally interested in formal verification for human designed systems.
 
 **Automated reasoning**
 I am also interested in developing high performance software for automated reasoning. 
@@ -33,7 +32,7 @@ In particular, I am interested in proof systems and proof complexities.
 
 News
 ======
-- August, 2024: I will present our work at IJCAI 2024
+- August, 2024: I will be presenting our work *Knowledge Compilation for Incremental and Checkable Stochastic Boolean Satisfiability* at IJCAI 2024
 - April, 2024: Our paper *Knowledge Compilation for Incremental and Checkable Stochastic Boolean Satisfiability* is accepted at IJCAI 2024.
 - August, 2023: I started my Ph.D.in Computer Science and Engineering at University of Michigan, Ann Arbor.
 - July, 2023: I successfully defended my master's thesis and received M.S. in ECE from National Taiwan University.  
