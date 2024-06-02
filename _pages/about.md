@@ -16,22 +16,20 @@ My research interests and areas are formal verification, automated reasoning, an
 For me, the most wonderful of my research is building solutions to real-world challenges upon fundamental basis and understanding them.
 Hence, I am interested in both theories and practice of formal methods. Specifically, 
 
-** Formal verification **
+**Formal verification**
 My current research applies automated reasoning techniques to verify safety properties of distributed protocols. 
 In the past, I have worked on hardware model checking. 
 I am generally interested in scaling automated formal verification for human designed systems.
-In the future,
-I would also like to explore interactive theorem proving for formal verification.
 
-** Automated reasoning **
+**Automated reasoning**
 I am also interested in developing high performance software for automated reasoning. 
-I have worked on topics related to SAT/QBF solving and I am still following research advances in the SAT community.
+I have worked on topics related to SAT/QBF solving.
 
-** Computational logic **
+**Computational logic**
 Besides developing algorithms,
 I am also interested in understanding what makes an algorithm work well in practice despite the problem's complexity.
-Hence, I am interested in proof systems and proof complexities. 
-My master's thesis focused on devloping a sound and complete proof system for a new logical formalism, dependency stochastic Boolean satisfiability (DSSAT).
+In particular, I am interested in proof systems and proof complexities. 
+
 
 News
 ======
