@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yun-Rong (Lauren) Luo/Personal Page"
+title                    : "Yun-Rong (Lauren) Luo"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
