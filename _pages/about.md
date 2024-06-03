@@ -17,11 +17,11 @@ My research interests are formal verification, automated reasoning, and computat
 **Formal verification.**
 I am generally interested in software/hardware formal verification.
 My current research applies automated reasoning techniques to verify safety properties of distributed protocols. 
-In the past, I have worked on hardware model checking and our work [(paper)](https://ieeexplore.ieee.org/abstract/document/9643515) won the *first place* of problem A in the [2020 CAD Contest](https://www.iccad-contest.org/2020/index.html)
+In the past, I have worked on hardware model checking and our work [(paper)](https://ieeexplore.ieee.org/abstract/document/9643515) won the *first place* of problem A in the [2020 CAD Contest](https://www.iccad-contest.org/2020/index.html).
 
 **Automated reasoning.**
 I am also interested in developing automated reasoning software for applications in formal verification. 
-I have worked on topics related to SAT/QBF solving, and I developed a certified stochastic Boolean satisfiability solving framework [cert-SSAT](https://github.com/lauren-yrluo/cert-SSAT.git) based on [CPOG](https://drops.dagstuhl.de/storage/00lipics/lipics-vol271-sat2023/LIPIcs.SAT.2023.6/LIPIcs.SAT.2023.6.pdf)
+I have worked on topics related to SAT/QBF solving, and I developed a certified stochastic Boolean satisfiability solving framework [cert-SSAT](https://github.com/lauren-yrluo/cert-SSAT.git) based on a certified knowledge compilation framework [CPOG](https://drops.dagstuhl.de/storage/00lipics/lipics-vol271-sat2023/LIPIcs.SAT.2023.6/LIPIcs.SAT.2023.6.pdf).
 
 **Computational logic.**
 Besides developing algorithms,
