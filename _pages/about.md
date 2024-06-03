@@ -12,17 +12,14 @@ during which I was advised by Prof. [Jie-Hong Roland Jiang](http://cc.ee.ntu.edu
 
 Research Interest
 ======
-My research interests are formal verification, automated reasoning, and computational logic. Specifically,
-
+My research interests are formal verification, automated reasoning, and computational logic. In particular,
 **Formal verification.**
 I am generally interested in software/hardware formal verification.
 My current research applies automated reasoning techniques to verify safety properties of distributed protocols. 
 In the past, I have worked on hardware model checking. 
-
 **Automated reasoning.**
 I am also interested in developing high performance software for automated reasoning. 
 I have worked on topics related to SAT/QBF solving.
-
 **Computational logic**
 Besides developing algorithms,
 I am also interested in proof systems and proof complexities so as to understand what makes an algorithm work well in practice despite the problem's complexity
