@@ -22,7 +22,7 @@ I am also interested in developing high performance software for automated reaso
 I have worked on topics related to SAT/QBF solving.
 **Computational logic**
 Besides developing algorithms,
-I am also interested in proof systems and proof complexities so as to understand what makes an algorithm work well in practice despite the problem's complexity
+I am also interested in proof systems and proof complexities so as to understand what makes an algorithm work well in practice despite the problem's complexity.
 
 News
 ======
