@@ -16,7 +16,7 @@ The X-value arises in various contexts of system design. It often represents an 
 
 Citation
 =======
-```
+<pre><code>
 @inproceedings{wang_compatible_2021,
   author={Wang, Yu-Neng and Luo, Yun-Rong and Chien, Po-Chun and Wang, Ping-Lun and Wang, Hao-Ren and Lin, Wan-Hsuan and Jiang, Jie-Hong Roland and Huang, Chung-Yang Ric},
   booktitle={2021 IEEE/ACM International Conference On Computer Aided Design (ICCAD)}, 
@@ -27,4 +27,4 @@ Citation
   pages={1-9},
   keywords={Design automation;Encoding;Task analysis},
   doi={10.1109/ICCAD51958.2021.9643515}}
-```
+</code></pre>
