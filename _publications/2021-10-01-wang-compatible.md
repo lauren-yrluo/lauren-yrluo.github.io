@@ -7,7 +7,7 @@ date: 2021-10-01
 venue: 'ICCAD 2021'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://ieeexplore.ieee.org/document/9643515'
-citation: 'Y.-N. Wang, Y.-R. Luo, P.-C. Chien, P.-L. Wang, H.-R. Wang, W.-H. Lin, J.-H. R. Jiang and C.-Y. R. Huang, "Compatible Equivalence Checking of X-Valued Circuits," in Proc. ICCAD, 2021.'
+#citation: 'Y.-N. Wang, Y.-R. Luo, P.-C. Chien, P.-L. Wang, H.-R. Wang, W.-H. Lin, J.-H. R. Jiang and C.-Y. R. Huang, "Compatible Equivalence Checking of X-Valued Circuits," in Proc. ICCAD, 2021.'
 ---
 
 ### Abstract
