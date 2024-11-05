@@ -5,7 +5,7 @@ permalink: /publication/2023-08-01-luo-resolution
 excerpt: ' In this work, we present the first sound and complete resolution calculus for Dependency Stochastic Boolean Satisfiability (DSSAT).'
 date: 2023-08-01
 venue: 'Journal of Automated Reasoning'
-slidesurl: '../files/Master_Defense.pdf'
+slidesurl: 'https://lauren-yrluo.github.io/files/Master_Defense.pdf'
 paperurl: 'https://link.springer.com/article/10.1007/s10817-023-09670-6'
 #citation: 'Y.-N. Wang, Y.-R. Luo, P.-C. Chien, P.-L. Wang, H.-R. Wang, W.-H. Lin, J.-H. R. Jiang and C.-Y. R. Huang, "Compatible Equivalence Checking of X-Valued Circuits," in Proc. ICCAD, 2021.'
 ---

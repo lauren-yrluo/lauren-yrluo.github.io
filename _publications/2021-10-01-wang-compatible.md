@@ -5,7 +5,7 @@ permalink: /publication/2021-10-01-wang-compatible
 excerpt: 'In this paper, we present our winning method based on X-value preserving dual-rail encoding and incremental identification of compatible equivalence relation.'
 date: 2021-10-01
 venue: '2021 IEEE/ACM International Conference On Computer Aided Design (ICCAD)'
-slidesurl: ''
+#slidesurl: ''
 paperurl: 'https://ieeexplore.ieee.org/document/9643515'
 #citation: 'Y.-N. Wang, Y.-R. Luo, P.-C. Chien, P.-L. Wang, H.-R. Wang, W.-H. Lin, J.-H. R. Jiang and C.-Y. R. Huang, "Compatible Equivalence Checking of X-Valued Circuits," in Proc. ICCAD, 2021.'
 ---
