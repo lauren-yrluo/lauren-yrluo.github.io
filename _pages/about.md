@@ -15,12 +15,12 @@ I currently work on formal verification for distributed protocols.
 
 News
 ======
-- Oct. 2024: I gave a talk on our work *Symmetric Minimization of the Reachable States of
-Distributed Protocols: An Update*[(slides)](files/scaveri_2024_slides.pdf) at [ISoLA 2024](https://2024-isola.isola-conference.org/#).
-- Aug. 2024: I gave a talk on our work *Knowledge Compilation for Incremental and Checkable Stochastic Boolean Satisfiability*[(slides)](files/KC_SSAT_slides.pdf) at [IJCAI 2024](https://ijcai24.org).
-- April, 2024: Our paper *Knowledge Compilation for Incremental and Checkable Stochastic Boolean Satisfiability*(https://doi.org/10.1007/s10817-023-09670-6) was accepted at [IJCAI 2024](https://ijcai24.org).  
+- Oct. 2024: I gave a talk on our work [*Symmetric Minimization of the Reachable States of
+Distributed Protocols: An Update*](files/scaveri_2024_slides.pdf) at [ISoLA 2024](https://2024-isola.isola-conference.org/#).
+- Aug. 2024: I gave a talk on our work [*Knowledge Compilation for Incremental and Checkable Stochastic Boolean Satisfiability*](files/KC_SSAT_slides.pdf) at [IJCAI 2024](https://ijcai24.org).
+- April, 2024: Our paper [*Knowledge Compilation for Incremental and Checkable Stochastic Boolean Satisfiability*](https://doi.org/10.24963/ijcai.2024/206) was accepted at [IJCAI 2024](https://ijcai24.org).  
 - Aug., 2023: I started my Ph.D.in Computer Science and Engineering at University of Michigan, Ann Arbor.
-- July, 2023: I successfully defended my master's thesis [(slides)](files/Master_Defense.pdf) and received M.S. in ECE from National Taiwan University.  
+- July, 2023: I successfully defended my [master's thesis](files/Master_Defense.pdf) and received M.S. in ECE from National Taiwan University.  
 - Jan., 2023: I was admitted to the Ph.D. program in Computer Science and Engineering at University of Michigan, Ann Arbor.
 - May, 2023: Our paper [*A Resolution Proof System for Dependency Stochastic Boolean Satisfiability*](https://link.springer.com/article/10.1007/s10817-023-09670-6) was accepted at Journal of Automated Reasoning.
 - July, 2021: Our paper [*Compatible Equivalence Checking of X-Valued Circuits*](https://ieeexplore.ieee.org/abstract/document/9643515) was accepted at ICCAD 2021.
