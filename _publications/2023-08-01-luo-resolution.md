@@ -7,7 +7,7 @@ date: 2023-08-01
 venue: 'Journal of Automated Reasoning'
 slidesurl: 'https://lauren-yrluo.github.io/files/Master_Defense.pdf'
 paperurl: 'https://link.springer.com/article/10.1007/s10817-023-09670-6'
-authors: 'Yun-Rong Luo*, Che Cheng*, Jie-Hong Roland Jiang' 
+authors: '<b>Yun-Rong Luo*</b>, Che Cheng*, Jie-Hong Roland Jiang' 
 citation: 'Yun-Rong Luo*, Che Cheng*, Jie-Hong Roland Jiang, "A Resolution Proof System for Dependency Stochastic Boolean Satisfiability." Journal of Automated Reasoning, 2023'
 ---
 
