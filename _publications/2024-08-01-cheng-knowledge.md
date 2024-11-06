@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-08-01-cheng-knowledge
 excerpt: 'In this work, we extend knowledge compilation from model counting to stochastic Boolean satisfiability (SSAT) solving by generalizing the dec-DNNF representation to accommodate the SSAT quantifier structure and integrate it into SharpSSAT, a state-of-the-art SSAT solver. We further study proof generation from the compiled representation and extend CPOG, a certified model-counting toolchain, to generate proofs for certifying the results of SharpSSAT.'
 date: 2024-08-01
-venue: '2024 International Joint Conference on Artificial Intelligence (IJCAI)'
+venue: 'International Joint Conference on Artificial Intelligence (IJCAI)'
 slidesurl: 'https://lauren-yrluo.github.io/files/KC_SSAT_slides.pdf'
 paperurl: 'https://doi.org/10.24963/ijcai.2024/206'
 authors: 'Che Cheng*, <b>Yun-Rong Luo*</b>, Jie-Hong Roland Jiang' 

@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021-10-01-wang-compatible
 excerpt: 'Our X-valued circuits equivalence checker won the *first place* of problem A in the [2020 CAD Contest](https://www.iccad-contest.org/2020/index.html). In this paper, we present our winning method based on X-value preserving dual-rail encoding and incremental identification of compatible equivalence relation.'
 date: 2021-10-01
-venue: '2021 IEEE/ACM International Conference On Computer Aided Design (ICCAD)'
+venue: 'International Conference On Computer Aided Design (ICCAD)'
 #slidesurl: ''
 paperurl: 'https://ieeexplore.ieee.org/document/9643515'
 authors: 'Yu-Neng Wang*, <b>Yun-Rong Luo*</b>, Po-Chun Chien*, Ping-Lun Wang, Hao-Ren Wang, Wan-Hsuan Lin, Jie-Hong Roland Jiang, Chung-Yang Ric Huang' 
