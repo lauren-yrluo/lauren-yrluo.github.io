@@ -7,7 +7,7 @@ date: 2021-10-01
 venue: '2021 IEEE/ACM International Conference On Computer Aided Design (ICCAD)'
 #slidesurl: ''
 paperurl: 'https://ieeexplore.ieee.org/document/9643515'
-authors: 'Yu-Neng Wang*, Yun-Rong Luo*, Po-Chun Chien*, Ping-Lun Wang, Hao-Ren Wang, Wan-Hsuan Lin, Jie-Hong Roland Jiang, Chung-Yang Ric Huang' 
+authors: 'Yu-Neng Wang*, <b>Yun-Rong Luo*</b>, Po-Chun Chien*, Ping-Lun Wang, Hao-Ren Wang, Wan-Hsuan Lin, Jie-Hong Roland Jiang, Chung-Yang Ric Huang' 
 citation: 'Yu-Neng Wang*, <b>Yun-Rong Luo*</b>, Po-Chun Chien*, Ping-Lun Wang, Hao-Ren Wang, Wan-Hsuan Lin, Jie-Hong Roland Jiang, Chung-Yang Ric Huang, "Compatible Equivalence Checking of X-Valued Circuits." 2021 IEEE/ACM International Conference On Computer Aided Design (ICCAD), 2021.'
 ---
 
