@@ -10,8 +10,12 @@ paperurl: 'https://doi.org/10.24963/ijcai.2024/206'
 authors: 'Che Cheng*, <b>Yun-Rong Luo*</b>, Jie-Hong Roland Jiang' 
 citation: 'Che Cheng*, <b>Yun-Rong Luo*</b>, Jie-Hong Roland Jiang, "Knowledge Compilation for Incremental and Checkable Stochastic Boolean Satisfiability." 2024 International Joint Conference on Artificial Intelligence (IJCAI), 2024'
 ---
+### Paper and Slides 
+[Paper URL](https://doi.org/10.24963/ijcai.2024/206) 
+[Download Slides](https://lauren-yrluo.github.io/files/KC_SSAT_slides.pdf)
+
 ### Software
-[SharpSSAT](https://github.com/NTU-ALComLab/SharpSSAT) \
+[SharpSSAT](https://github.com/NTU-ALComLab/SharpSSAT)
 [cert-SSAT](https://github.com/NTU-ALComLab/cert-SSAT)
 
 ### Abstract

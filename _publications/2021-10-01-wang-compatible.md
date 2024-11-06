@@ -11,6 +11,9 @@ authors: 'Yu-Neng Wang*, <b>Yun-Rong Luo*</b>, Po-Chun Chien*, Ping-Lun Wang, Ha
 citation: 'Yu-Neng Wang*, <b>Yun-Rong Luo*</b>, Po-Chun Chien*, Ping-Lun Wang, Hao-Ren Wang, Wan-Hsuan Lin, Jie-Hong Roland Jiang, Chung-Yang Ric Huang, "Compatible Equivalence Checking of X-Valued Circuits." 2021 IEEE/ACM International Conference On Computer Aided Design (ICCAD), 2021.'
 ---
 
+### Paper 
+[Paper URL](https://ieeexplore.ieee.org/document/9643515) 
+
 ### Abstract
 The X-value arises in various contexts of system design. It often represents an unknown value or a don't-care value depending on the application. Verification of X-valued circuits is a crucial task but relatively unaddressed. The challenge of equivalence checking for X-valued circuits, named compatible equivalence checking, is posed in the 2020 ICCAD CAD Contest. In this paper, we present our winning method based on X-value preserving dual-rail encoding and incremental identification of compatible equivalence relation. Experimental results demonstrate the effectiveness of the proposed techniques and the outperformance of our approach in solving more cases than the commercial tool and the other teams among the top 3 of the contest.
 

@@ -50,13 +50,6 @@ layout: default
         <p class="archive__item-excerpt" itemprop="description"><p>{{ page.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
         {% endif %}
 
-        {% if page.paperurl and page.slidesurl %}
-          <p><a href=" {{ page.paperurl }} ">Paper URL</a> | <a href="{{ page.slidesurl }}">Download Slides</a></p>
-        {% elsif page.paperurl %}
-          <p><a href=" {{ page.paperurl }} ">Paper URL</a></p>
-        {% elsif page.slidesurl %}
-          <p>Download <a href="{{ page.slidesurl }}">Download Slides</a></p></p>
-        {% endif %}
         </header>
       {% endunless %}
 
