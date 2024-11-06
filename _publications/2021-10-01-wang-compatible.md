@@ -2,7 +2,7 @@
 title: "Compatible Equivalence Checking of X-Valued Circuits"
 collection: publications
 permalink: /publication/2021-10-01-wang-compatible
-excerpt: 'In this paper, we present our winning method based on X-value preserving dual-rail encoding and incremental identification of compatible equivalence relation.'
+excerpt: 'Our X-valued circuits equivalence checker won the *first place* of problem A in the [2020 CAD Contest](https://www.iccad-contest.org/2020/index.html). In this paper, we present our winning method based on X-value preserving dual-rail encoding and incremental identification of compatible equivalence relation.'
 date: 2021-10-01
 venue: '2021 IEEE/ACM International Conference On Computer Aided Design (ICCAD)'
 #slidesurl: ''
