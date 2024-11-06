@@ -17,7 +17,7 @@ News
 ======
 - Oct. 2024: I gave a [talk](files/scaveri_2024_slides.pdf) on our work *Symmetric Minimization of the Reachable States of Distributed Protocols: An Update* at [ISoLA 2024](https://2024-isola.isola-conference.org/#).
 - Aug. 2024: I gave a [talk](files/KC_SSAT_slides.pdf) on our work *Knowledge Compilation for Incremental and Checkable Stochastic Boolean Satisfiability* at [IJCAI 2024](https://ijcai24.org).
-- April, 2024: Our [paper](https://doi.org/10.24963/ijcai.2024/206)] *Knowledge Compilation for Incremental and Checkable Stochastic Boolean Satisfiability* was accepted at [IJCAI 2024](https://ijcai24.org).  
+- April, 2024: Our [paper](https://doi.org/10.24963/ijcai.2024/206) *Knowledge Compilation for Incremental and Checkable Stochastic Boolean Satisfiability* was accepted at [IJCAI 2024](https://ijcai24.org).  
 - Aug., 2023: I started my Ph.D. in Computer Science and Engineering at University of Michigan, Ann Arbor.
 - July, 2023: I successfully defended my [master's thesis](files/Master_Defense.pdf) and received M.S. in ECE from National Taiwan University.  
 - Jan., 2023: I was admitted to the Ph.D. program in Computer Science and Engineering at University of Michigan, Ann Arbor.
