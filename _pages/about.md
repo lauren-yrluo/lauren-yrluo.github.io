@@ -15,7 +15,8 @@ I currently work on formal verification for distributed protocols.
 
 News
 ======
-- Oct. 2024: I gave a [talk](files/scaveri_2024_slides.pdf) on our work *Symmetric Minimization of the Reachable States of Distributed Protocols: An Update* at [ISoLA 2024](https://2024-isola.isola-conference.org/#).
+- Oct. 2024: I gave a [talk](files/scaveri_2024_slides.pdf) on our work *SAT-Based Quantified Symmetric Minimization of the Reachable States of Distributed Protocols: An Update* at [ISoLA 2024](https://2024-isola.isola-conference.org/#).
 - Aug. 2024: I gave a [talk](files/KC_SSAT_slides.pdf) on our work *Knowledge Compilation for Incremental and Checkable Stochastic Boolean Satisfiability* at [IJCAI 2024](https://ijcai24.org).
+- July, 2024: Our [paper](https://doi.org/10.1007/978-3-031-75380-0_21) *SAT-Based Quantified Symmetric Minimization of the Reachable States of Distributed Protocols: An Update* is accepted at [ISoLA 2024](https://2024-isola.isola-conference.org/#).
 - April, 2024: Our [paper](https://doi.org/10.24963/ijcai.2024/206) *Knowledge Compilation for Incremental and Checkable Stochastic Boolean Satisfiability* was accepted at [IJCAI 2024](https://ijcai24.org).  
 
