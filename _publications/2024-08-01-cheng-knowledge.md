@@ -2,7 +2,7 @@
 title: "Knowledge Compilation for Incremental and Checkable Stochastic Boolean Satisfiability"
 collection: publications
 permalink: /publication/2024-08-01-cheng-knowledge
-excerpt: 'In this work, we generalize dec-DNNF representation to stochastic Boolean satisfiability (SSAT). We integrate knowledge compilation into [SharpSSAT](https://github.com/NTU-ALComLab/SharpSSAT)[(AAAI23 paper)](https://ojs.aaai.org/index.php/AAAI/article/view/25509), a state-of-the-art SSAT solver. We extend [CPOG](https://github.com/rebryant/cpog)[(SAT23 paper)](https://doi.org/10.4230/LIPIcs.SAT.2023.6), a certified model-counting toolchain, and develop the [cert-SSAT](https://github.com/NTU-ALComLab/cert-SSAT) toolchain for certifying the results of SharpSSAT.'
+excerpt: 'In this work, we generalize the dec-DNNF representation to stochastic Boolean satisfiability (SSAT). We integrate knowledge compilation into [SharpSSAT](https://github.com/NTU-ALComLab/SharpSSAT)[(AAAI23 paper)](https://ojs.aaai.org/index.php/AAAI/article/view/25509), a state-of-the-art SSAT solver. We extend [CPOG](https://github.com/rebryant/cpog)[(SAT23 paper)](https://doi.org/10.4230/LIPIcs.SAT.2023.6), a certified model-counting toolchain, and develop the [cert-SSAT](https://github.com/NTU-ALComLab/cert-SSAT) toolchain for certifying the results of SharpSSAT.'
 date: 2024-08-01
 venue: 'International Joint Conference on Artificial Intelligence (IJCAI)'
 slidesurl: 'https://lauren-yrluo.github.io/files/KC_SSAT_slides.pdf'
