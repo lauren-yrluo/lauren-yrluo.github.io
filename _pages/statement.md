@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "statement"
+title: "Research Statement"
 permalink: /statement/
 author_profile: true
 redirect_from:
