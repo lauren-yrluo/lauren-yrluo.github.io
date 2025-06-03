@@ -14,7 +14,8 @@ and I am currently exploring interactive theorem proving and programming languag
 In the past, I have worked on software/hardware model checking and satisfiability (SAT, QBF, SMT).
 
 
-News======
+News
+======
 - April, 2025: Our paper *QSM-Cutoff: Systematic Derivation of Quantified Cutoff Formulas for Distributed Protocols* is accepted at [CAV 2025](https://conferences.i-cav.org/2025/).
 - Mar, 2025: I have become a Ph.D. candidate!
 - Oct, 2024: I gave a [talk](files/scaveri_2024_slides.pdf) on our work *SAT-Based Quantified Symmetric Minimization of the Reachable States of Distributed Protocols: An Update* at [ISoLA 2024](https://2024-isola.isola-conference.org/#).
