@@ -1,13 +1,13 @@
 ---
 title: "QSM-Cutoff: Systematic Derivation of Quantified Cutoff Formulas for Distributed Protocols"
 collection: publications
-permalink: /publication/2025-08-01-luo-qsmcutoff.md
+permalink: /publication/2025-08-01-luo-qsmcutoff
 excerpt: 'We introduce [QSM-Cutoff](https://github.com/QSM-Cutoff/QSM-Cutoff), a new procedure that employs the quantified symmetric minimization algorithm from to systematically derive quantified formulas that precisely capture the onset of cutoff and saturation in distributed protocols.'
 date: 2025-08-01
 venue: 'Computer Aided Verification (CAV)'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-98682-6_14'
-authors: '<b>Yun-Rong Luo*</b>, Aman Goel, Karem Sakallah' 
-citation: '<b>Yun-Rong Luo*</b>, Aman Goel, Karem Sakallah, "QSM-Cutoff: Systematic Derivation of Quantified  Cutoff Formulas for Distributed Protocols.", 2025 International Conference on Computer Aided Verification (CAV), 2025'
+authors: '<b>Yun-Rong Luo</b>, Aman Goel, Karem Sakallah' 
+citation: '<b>Yun-Rong Luo</b>, Aman Goel, Karem Sakallah, "QSM-Cutoff: Systematic Derivation of Quantified  Cutoff Formulas for Distributed Protocols.", 2025 International Conference on Computer Aided Verification (CAV), 2025'
 ---
 ### Paper and Slides 
 [Paper URL](https://link.springer.com/chapter/10.1007/978-3-031-98682-6_14) 
