@@ -1,4 +1,5 @@
 ---
+layout: single
 permalink: /
 title: "Welcome to my personal website"
 author_profile: true
