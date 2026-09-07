@@ -7,10 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a third-year Ph.D. candidate in Computer Science and Engineering (CSE) at the University of Michigan, working with Prof. [Manos Kapritsos](https://web.eecs.umich.edu/~manosk/).
-My research interests are formal methods and verification.
+I am a fourth-year Ph.D. candidate in Computer Science and Engineering (CSE) at the University of Michigan, working with Prof. [Manos Kapritsos](https://web.eecs.umich.edu/~manosk/).
+My research interests are distributed systems and formal verification.
 In the past, I have worked on software/hardware model checking and satisfiability.
-Currently, I am switching research focus and exploring interactive theorem proving and programming languages for formal verification.
 I received my B.S. and M.S. degree in ECE from the National Taiwan University, 
 during which I was advised by Prof. [Jie-Hong Roland Jiang](http://cc.ee.ntu.edu.tw/~jhjiang/).
 
