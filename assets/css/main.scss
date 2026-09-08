@@ -40,48 +40,114 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 /* ==========================================================================
-   Author Sidebar Styling (Font scaling & Spacing)
+   Complete Layout & Sidebar Overlap Fix
    ========================================================================== */
 
-/* Reduce avatar size and bottom gap */
+/* 1. Stop text/links from bleeding horizontally into the right column */
+.sidebar,
+.author__content,
+.author__urls-wrapper,
+.author__urls {
+  white-space: normal !important;
+  word-break: break-word !important;
+  overflow-wrap: anywhere !important;
+}
+
+.author__urls li {
+  white-space: normal !important;
+  margin-bottom: 0.35rem !important;
+  font-size: 12px !important;
+  line-height: 1.35 !important;
+}
+
+.author__urls a {
+  font-size: 12px !important;
+  word-break: break-all !important;
+}
+
+/* 2. Compact Sidebar Typography & Profile Image */
 .author__avatar {
-    max-width: 130px !important;
-    margin-bottom: 0.75rem !important;
+  max-width: 110px !important;
+  margin-bottom: 0.5rem !important;
+
+  img {
+    max-width: 110px !important;
+    height: auto !important;
+    border-radius: 50% !important;
   }
-  
-  /* Scale down the author name */
-  .author__name {
-    font-size: 1.15rem !important;
-    margin-bottom: 0.25rem !important;
-  }
-  
-  /* Make the biography font slightly smaller and tighter */
-  .author__bio {
-    font-size: 0.85rem !important;
-    line-height: 1.35 !important;
-    margin-bottom: 1rem !important;
-  }
-  
-  /* Scale down the sidebar links (email, scholar, github, location) */
-  .author__urls-wrapper {
-    font-size: 0.82rem !important;
-  }
-  
-  .author__urls {
-    li {
-      font-size: 0.82rem !important;
-      line-height: 1.4 !important;
-      margin-bottom: 0.4rem !important; /* Space between each item */
-      white-space: normal !important;
-      word-break: break-word !important; /* Prevents overflow into main content */
-      overflow-wrap: anywhere !important;
-    }
-  
-    a {
-      word-break: break-all !important;
-    }
+}
+
+h3.author__name,
+.author__name {
+  font-size: 15px !important;
+  font-weight: 700 !important;
+  line-height: 1.2 !important;
+  margin: 0 0 0.35rem 0 !important;
+}
+
+p.author__bio,
+.author__bio {
+  font-size: 12px !important;
+  line-height: 1.35 !important;
+  color: #555 !important;
+  margin: 0 0 0.75rem 0 !important;
+}
+
+/* 3. Two-Column CSS Grid (enforces hard separation between panels) */
+@media (min-width: 768px) {
+  #main {
+    display: grid !important;
+    grid-template-columns: 220px minmax(0, 1fr) !important;
+    column-gap: 3rem !important;
+    align-items: start !important;
+    max-width: 1200px !important;
+    margin: 0 auto !important;
+    padding: 0 1.5rem !important;
+    float: none !important;
   }
 
+  .sidebar {
+    grid-column: 1 !important;
+    width: 220px !important;
+    max-width: 220px !important;
+    float: none !important;
+    position: sticky !important;
+    top: 2rem !important;
+    margin: 0 !important;
+  }
+
+  .page,
+  .archive {
+    grid-column: 2 !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    float: none !important;
+    margin: 0 !important;
+    padding-right: 0 !important; /* Eliminates the unused right-sidebar gap */
+  }
+}
+
+/* 4. Single-Column Stack for Mobile / Narrow Windows */
+@media (max-width: 767px) {
+  #main {
+    display: block !important;
+    padding: 0 1rem !important;
+  }
+
+  .sidebar {
+    width: 100% !important;
+    float: none !important;
+    position: static !important;
+    margin-bottom: 2rem !important;
+  }
+
+  .page,
+  .archive {
+    width: 100% !important;
+    float: none !important;
+    padding-right: 0 !important;
+  }
+}
   /* ==========================================================================
    Right Panel Styling (Top Spacing & Font Scaling)
    ========================================================================== */
