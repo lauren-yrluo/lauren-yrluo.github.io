@@ -39,3 +39,45 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+/* ==========================================================================
+   Author Sidebar Styling (Font scaling & Spacing)
+   ========================================================================== */
+
+/* Reduce avatar size and bottom gap */
+.author__avatar {
+    max-width: 130px !important;
+    margin-bottom: 0.75rem !important;
+  }
+  
+  /* Scale down the author name */
+  .author__name {
+    font-size: 1.15rem !important;
+    margin-bottom: 0.25rem !important;
+  }
+  
+  /* Make the biography font slightly smaller and tighter */
+  .author__bio {
+    font-size: 0.85rem !important;
+    line-height: 1.35 !important;
+    margin-bottom: 1rem !important;
+  }
+  
+  /* Scale down the sidebar links (email, scholar, github, location) */
+  .author__urls-wrapper {
+    font-size: 0.82rem !important;
+  }
+  
+  .author__urls {
+    li {
+      font-size: 0.82rem !important;
+      line-height: 1.4 !important;
+      margin-bottom: 0.4rem !important; /* Space between each item */
+      white-space: normal !important;
+      word-break: break-word !important; /* Prevents overflow into main content */
+      overflow-wrap: anywhere !important;
+    }
+  
+    a {
+      word-break: break-all !important;
+    }
+  }
